@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+#title{
+    color:white;
+    font-family: Libre Baskerville;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+img {
+    margin-left: 550px;
+    margin-top: 20px;
+    border: solid white;
+    border-width: 5px;
+}
+
+h4 {
+    text-align: center;
+    color:white;
+}
+
+#contents {
+    margin-top: 10px;
+}
